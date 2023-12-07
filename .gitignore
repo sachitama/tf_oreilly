@@ -1,4 +1,4 @@
-.gitignore
+##secret含むファイルをパブリックリポジトリに上げないこと！##
 .terraform
 *.tfstate
 *.tfstate.backup
